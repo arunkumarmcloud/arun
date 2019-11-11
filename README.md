@@ -1,1 +1,3 @@
-# arun
+# maven-project
+
+Simple Maven Project
